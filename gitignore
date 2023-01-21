@@ -87,10 +87,10 @@ libnghttp2_asio.pc
 *.mlpd
 
 # Web, Laravel
-/node_modules
-/public/hot
-/public/storage
-/storage/*.key
+node_modules
+public/hot
+public/storage
+storage/*.key
 /vendor
 .env
 .env.backup
@@ -100,8 +100,8 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
-/.idea
-/.vscode
+.idea
+.vscode
 composer.phar
 
 # Other
